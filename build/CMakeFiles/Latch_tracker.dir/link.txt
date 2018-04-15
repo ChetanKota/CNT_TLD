@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/nagaraju/Chetan/Color_TLD/lib/libLatch_tracker.a  CMakeFiles/Latch_tracker.dir/Latch_tracker.o
+/usr/bin/ranlib /home/nagaraju/Chetan/Color_TLD/lib/libLatch_tracker.a

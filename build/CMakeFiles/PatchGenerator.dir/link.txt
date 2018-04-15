@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/nagaraju/Chetan/Color_TLD/lib/libPatchGenerator.a  CMakeFiles/PatchGenerator.dir/PatchGenerator.o
+/usr/bin/ranlib /home/nagaraju/Chetan/Color_TLD/lib/libPatchGenerator.a

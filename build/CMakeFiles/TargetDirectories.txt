@@ -1,0 +1,9 @@
+/home/nagaraju/Chetan/Color_TLD/build/CMakeFiles/edit_cache.dir
+/home/nagaraju/Chetan/Color_TLD/build/CMakeFiles/tld.dir
+/home/nagaraju/Chetan/Color_TLD/build/CMakeFiles/rebuild_cache.dir
+/home/nagaraju/Chetan/Color_TLD/build/CMakeFiles/run_tld.dir
+/home/nagaraju/Chetan/Color_TLD/build/CMakeFiles/ferNN.dir
+/home/nagaraju/Chetan/Color_TLD/build/CMakeFiles/tld_utils.dir
+/home/nagaraju/Chetan/Color_TLD/build/CMakeFiles/PatchGenerator.dir
+/home/nagaraju/Chetan/Color_TLD/build/CMakeFiles/color_tracker.dir
+/home/nagaraju/Chetan/Color_TLD/build/CMakeFiles/color_tracker_parameters.dir

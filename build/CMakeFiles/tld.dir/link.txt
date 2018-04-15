@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/nagaraju/Chetan/Color_TLD/lib/libtld.a  CMakeFiles/tld.dir/TLD.o
+/usr/bin/ranlib /home/nagaraju/Chetan/Color_TLD/lib/libtld.a

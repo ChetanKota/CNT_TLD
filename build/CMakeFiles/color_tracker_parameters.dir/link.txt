@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/nagaraju/Chetan/Color_TLD/lib/libcolor_tracker_parameters.a  CMakeFiles/color_tracker_parameters.dir/color_tracker_parameters.o
+/usr/bin/ranlib /home/nagaraju/Chetan/Color_TLD/lib/libcolor_tracker_parameters.a

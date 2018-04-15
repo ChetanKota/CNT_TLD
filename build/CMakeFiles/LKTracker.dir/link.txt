@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/nagaraju/Chetan/Color_TLD/lib/libLKTracker.a  CMakeFiles/LKTracker.dir/LKTracker.o
+/usr/bin/ranlib /home/nagaraju/Chetan/Color_TLD/lib/libLKTracker.a

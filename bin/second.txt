@@ -1,0 +1,2810 @@
+Initial Bounding Box = x:147 y:110 h:33 w:32
+Created 98433 bounding boxes
+Found 10 good boxes, 97466 bad boxes
+Best Box: 148 109 33 32
+Bounding box hull: 142 106 43 41
+Positive examples generated: ferns:200 NN:1
+variance: 1322.58
+check variance: 1322.58
+negative data generation started.
+Negative examples generated: ferns: 56269 NN: 100
+1. Trained NN examples: 1 positive 6 negative
+tracked points : 31
+s= 0.986001 s1= -0.230978 s2= -0.223979 
+predicted bb: 150 113 183 145
+40890 Bounding boxes passed the variance filter
+27 Initial detection from Fern Classifier
+Fern detector made 27 detections in 15.0537ms
+Found 3 NN matches
+Tracked
+Cluster indexes: 0 0 0 
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 148 112 33 32
+weighted detection: 151 112 33 32
+weighted detection: 151 115 33 32
+Tracker bb: 150 113 33 32
+Average bb: 150 113 33 32
+Weighting 3 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+2. Trained NN examples: 1 positive 8 negative
+Detection rate: 2/2
+tracked points : 31
+s= 0.989398 s1= -0.174934 s2= -0.169633 
+predicted bb: 153 117 186 149
+44365 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 18.0148ms
+No NN matches found.
+Tracked
+[Learning] Positive examples generated: ferns:100 NN:1
+3. Trained NN examples: 2 positive 8 negative
+Detection rate: 3/3
+tracked points : 31
+s= 0.993593 s1= -0.105723 s2= -0.102519 
+predicted bb: 156 118 189 150
+44221 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 17.0152ms
+Found 2 NN matches
+Tracked
+Cluster indexes: 0 0 
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 154 118 33 32
+weighted detection: 157 118 33 32
+Tracker bb: 156 118 33 32
+Average bb: 156 118 33 32
+Weighting 2 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+4. Trained NN examples: 2 positive 8 negative
+Detection rate: 4/4
+tracked points : 31
+s= 0.995273 s1= -0.078001 s2= -0.075638 
+predicted bb: 160 118 193 150
+45550 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 17.6519ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 160 118 33 32
+Tracker bb: 160 118 33 32
+Average bb: 160 118 33 32
+Weighting 1 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+5. Trained NN examples: 2 positive 8 negative
+Detection rate: 5/5
+tracked points : 31
+s= 0.996705 s1= -0.054372 s2= -0.052724 
+predicted bb: 162 117 195 149
+47359 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 18.1834ms
+Found 2 NN matches
+Tracked
+Cluster indexes: 0 0 
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 160 118 33 32
+weighted detection: 163 118 33 32
+Tracker bb: 162 117 33 32
+Average bb: 162 117 33 32
+Weighting 2 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+6. Trained NN examples: 2 positive 8 negative
+Detection rate: 6/6
+tracked points : 31
+s= 0.999564 s1= -0.007191 s2= -0.006973 
+predicted bb: 162 118 195 150
+47857 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 24.5374ms
+No NN matches found.
+Tracked
+[Learning] Positive examples generated: ferns:100 NN:1
+7. Trained NN examples: 3 positive 8 negative
+Detection rate: 7/7
+tracked points : 31
+s= 1.000449 s1= 0.007406 s2= 0.007181 
+predicted bb: 162 119 195 151
+49125 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 19.0253ms
+Found 2 NN matches
+Tracked
+Cluster indexes: 0 0 
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 163 118 33 32
+weighted detection: 163 121 33 32
+Tracker bb: 162 119 33 32
+Average bb: 162 119 33 32
+Weighting 2 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+8. Trained NN examples: 3 positive 8 negative
+Detection rate: 8/8
+tracked points : 31
+s= 0.993900 s1= -0.100653 s2= -0.097603 
+predicted bb: 163 120 196 152
+49102 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 17.6788ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 163 121 33 32
+Tracker bb: 163 120 33 32
+Average bb: 163 120 33 32
+Weighting 1 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+9. Trained NN examples: 3 positive 8 negative
+Detection rate: 9/9
+tracked points : 31
+s= 0.999921 s1= -0.001311 s2= -0.001271 
+predicted bb: 164 120 197 152
+48739 Bounding boxes passed the variance filter
+16 Initial detection from Fern Classifier
+Fern detector made 16 detections in 18.144ms
+Found 2 NN matches
+Tracked
+Cluster indexes: 0 0 
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 163 121 33 32
+weighted detection: 166 121 33 32
+Tracker bb: 164 120 33 32
+Average bb: 164 120 33 32
+Weighting 2 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+10. Trained NN examples: 3 positive 8 negative
+Detection rate: 10/10
+tracked points : 31
+s= 0.986061 s1= -0.230001 s2= -0.223031 
+predicted bb: 167 119 200 151
+46237 Bounding boxes passed the variance filter
+19 Initial detection from Fern Classifier
+Fern detector made 19 detections in 16.6869ms
+Found 3 NN matches
+Tracked
+Cluster indexes: 0 0 0 
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 166 118 33 32
+weighted detection: 169 118 33 32
+Tracker bb: 167 119 33 32
+Average bb: 167 119 33 32
+Weighting 2 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+11. Trained NN examples: 3 positive 9 negative
+Detection rate: 11/11
+tracked points : 30
+s= 0.996675 s1= -0.054862 s2= -0.053200 
+predicted bb: 166 115 199 147
+41472 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 15.5649ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 166 115 33 32
+Tracker bb: 166 115 33 32
+Average bb: 166 115 33 32
+Weighting 1 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+12. Trained NN examples: 3 positive 9 negative
+Detection rate: 12/12
+tracked points : 31
+s= 0.992304 s1= -0.126982 s2= -0.123134 
+predicted bb: 161 112 194 144
+39268 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 14.4492ms
+No NN matches found.
+Tracked
+[Learning] Positive examples generated: ferns:100 NN:1
+13. Trained NN examples: 4 positive 9 negative
+Detection rate: 13/13
+tracked points : 31
+s= 0.999725 s1= -0.004534 s2= -0.004396 
+predicted bb: 157 110 190 142
+40435 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 14.8318ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 157 109 33 32
+Tracker bb: 157 110 33 32
+Average bb: 157 110 33 32
+Weighting 1 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+14. Trained NN examples: 4 positive 9 negative
+Detection rate: 14/14
+tracked points : 31
+s= 0.999912 s1= -0.001458 s2= -0.001414 
+predicted bb: 156 107 189 139
+39914 Bounding boxes passed the variance filter
+19 Initial detection from Fern Classifier
+Fern detector made 19 detections in 14.6383ms
+Found 2 NN matches
+Tracked
+Cluster indexes: 0 0 
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 157 106 33 32
+Tracker bb: 156 107 33 32
+Average bb: 156 107 33 32
+Weighting 1 close detection(s) with tracker..
+[Learning] Positive examples generated: ferns:100 NN:1
+15. Trained NN examples: 4 positive 9 negative
+Detection rate: 15/15
+tracked points : 31
+s= 1.022150 s1= 0.365476 s2= 0.354401 
+predicted bb: 154 79 188 112
+31479 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 18.9607ms
+No NN matches found.
+Tracked
+[Learning] Fast change..not training
+Detection rate: 16/16
+tracked points : 33
+s= 1.015108 s1= 0.256836 s2= 0.249282 
+predicted bb: 151 74 186 107
+32847 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 36.0197ms
+No NN matches found.
+Tracked
+Detection rate: 17/17
+tracked points : 33
+s= 1.001962 s1= 0.034338 s2= 0.032376 
+predicted bb: 147 71 182 104
+32290 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 12.3298ms
+No NN matches found.
+Tracked
+Detection rate: 18/18
+tracked points : 33
+s= 1.000135 s1= 0.002359 s2= 0.002225 
+predicted bb: 142 69 177 102
+32327 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 12.8625ms
+No NN matches found.
+Tracked
+Detection rate: 19/19
+tracked points : 33
+s= 0.999465 s1= -0.009365 s2= -0.008830 
+predicted bb: 135 68 170 101
+31962 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 12.7223ms
+No NN matches found.
+Tracked
+Detection rate: 20/20
+tracked points : 33
+s= 0.994591 s1= -0.094660 s2= -0.089251 
+predicted bb: 128 68 163 101
+35633 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 13.3493ms
+No NN matches found.
+Tracked
+Detection rate: 21/21
+tracked points : 33
+s= 1.002880 s1= 0.050404 s2= 0.047524 
+predicted bb: 127 68 162 101
+36697 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 13.6859ms
+No NN matches found.
+Tracked
+Detection rate: 22/22
+tracked points : 32
+s= 1.000285 s1= 0.004990 s2= 0.004705 
+predicted bb: 127 67 162 100
+36043 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 14.0383ms
+No NN matches found.
+Tracked
+Detection rate: 23/23
+tracked points : 33
+s= 1.014200 s1= 0.248504 s2= 0.234303 
+predicted bb: 127 65 162 98
+34855 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 13.7991ms
+No NN matches found.
+Tracked
+Detection rate: 24/24
+tracked points : 32
+s= 0.998205 s1= -0.031418 s2= -0.029622 
+predicted bb: 128 63 163 96
+32720 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 12.3684ms
+No NN matches found.
+Tracked
+Detection rate: 25/25
+tracked points : 32
+s= 1.045413 s1= 0.794724 s2= 0.749311 
+predicted bb: 139 66 176 100
+31810 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 19.1024ms
+No NN matches found.
+Tracked
+Detection rate: 26/26
+tracked points : 39
+s= 0.999654 s1= -0.006407 s2= -0.005887 
+predicted bb: 145 71 182 105
+34669 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 13.1081ms
+No NN matches found.
+Tracked
+Detection rate: 27/27
+tracked points : 38
+s= 0.997716 s1= -0.042256 s2= -0.038830 
+predicted bb: 151 79 188 113
+35814 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 14.3544ms
+No NN matches found.
+Tracked
+Detection rate: 28/28
+tracked points : 39
+s= 1.001887 s1= 0.034913 s2= 0.032082 
+predicted bb: 156 89 193 123
+37776 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 15.4552ms
+No NN matches found.
+Tracked
+Detection rate: 29/29
+tracked points : 39
+s= 1.000112 s1= 0.002080 s2= 0.001911 
+predicted bb: 160 100 197 134
+41545 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 15.9007ms
+No NN matches found.
+Tracked
+Detection rate: 30/30
+tracked points : 39
+s= 0.999753 s1= -0.004575 s2= -0.004204 
+predicted bb: 163 122 200 156
+42120 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 15.4189ms
+No NN matches found.
+Tracked
+Detection rate: 31/31
+tracked points : 39
+s= 0.962929 s1= -0.685806 s2= -0.630200 
+predicted bb: 165 128 201 161
+41524 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 15.7064ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 166 127 33 32
+Tracker bb: 165 128 36 33
+Average bb: 165 128 36 33
+Weighting 1 close detection(s) with tracker..
+Detection rate: 32/32
+tracked points : 32
+s= 1.016981 s1= 0.305667 s2= 0.280194 
+predicted bb: 165 125 202 159
+41152 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 15.0744ms
+No NN matches found.
+Tracked
+Detection rate: 33/33
+tracked points : 37
+s= 0.966048 s1= -0.628103 s2= -0.577176 
+predicted bb: 165 113 201 146
+39774 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 15.584ms
+No NN matches found.
+Tracked
+Detection rate: 34/34
+tracked points : 33
+s= 0.998535 s1= -0.026373 s2= -0.024175 
+predicted bb: 164 93 200 126
+37734 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 14.7768ms
+No NN matches found.
+Tracked
+Detection rate: 35/35
+tracked points : 25
+s= 1.077499 s1= 1.394983 s2= 1.278734 
+predicted bb: 161 57 200 93
+Too unstable predictions FB error=11.758793
+38265 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 15.1972ms
+No NN matches found.
+Not tracking..
+Detection rate: 35/36
+39598 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 14.6876ms
+No NN matches found.
+Not tracking..
+Detection rate: 35/37
+40540 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 16.4085ms
+No NN matches found.
+Not tracking..
+Detection rate: 35/38
+41198 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 15.3413ms
+No NN matches found.
+Not tracking..
+Detection rate: 35/39
+41137 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 15.309ms
+Found 3 NN matches
+Not tracking..
+Cluster indexes: 0 0 0 
+Found 1 clusters
+Confident detection..reinitializing tracker
+Detection rate: 36/40
+tracked points : 27
+s= 0.975087 s1= -0.386154 s2= -0.373697 
+predicted bb: 163 74 193 103
+Too unstable predictions FB error=15.500629
+40913 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 16.3429ms
+No NN matches found.
+Not tracking..
+Detection rate: 36/41
+41576 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 15.48ms
+No NN matches found.
+Not tracking..
+Detection rate: 36/42
+43102 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 16.4871ms
+No NN matches found.
+Not tracking..
+Detection rate: 36/43
+43463 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 16.2877ms
+No NN matches found.
+Not tracking..
+Detection rate: 36/44
+43539 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 16.7665ms
+No NN matches found.
+Not tracking..
+Detection rate: 36/45
+39757 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 22.229ms
+No NN matches found.
+Not tracking..
+Detection rate: 36/46
+40168 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 18.4983ms
+No NN matches found.
+Not tracking..
+Detection rate: 36/47
+41507 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 15.3568ms
+No NN matches found.
+Not tracking..
+Detection rate: 36/48
+40496 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 15.3418ms
+Found 1 NN matches
+Not tracking..
+Found 1 clusters
+Confident detection..reinitializing tracker
+Detection rate: 37/49
+tracked points : 30
+s= 1.012140 s1= 0.200313 s2= 0.194242 
+predicted bb: 156 95 189 127
+41038 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 25.0334ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 157 97 33 32
+Tracker bb: 156 95 33 32
+Average bb: 156 95 33 32
+Weighting 1 close detection(s) with tracker..
+Detection rate: 38/50
+tracked points : 28
+s= 0.976348 s1= -0.390255 s2= -0.378429 
+predicted bb: 154 112 186 143
+42775 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 15.574ms
+No NN matches found.
+Tracked
+Detection rate: 39/51
+tracked points : 30
+s= 1.002574 s1= 0.041180 s2= 0.039893 
+predicted bb: 154 123 186 154
+47250 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 17.0636ms
+No NN matches found.
+Tracked
+Detection rate: 40/52
+tracked points : 31
+s= 0.975424 s1= -0.393222 s2= -0.380934 
+predicted bb: 155 136 186 166
+52072 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 21.2915ms
+No NN matches found.
+Tracked
+Detection rate: 41/53
+tracked points : 28
+s= 0.961318 s1= -0.599570 s2= -0.580229 
+predicted bb: 157 154 187 183
+51668 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 32.6701ms
+No NN matches found.
+Tracked
+Detection rate: 42/54
+tracked points : 35
+s= 1.090712 s1= 1.360679 s2= 1.315323 
+predicted bb: 156 165 189 197
+52492 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 24.4766ms
+No NN matches found.
+Tracked
+Detection rate: 43/55
+tracked points : 26
+s= 0.990811 s1= -0.151614 s2= -0.147019 
+predicted bb: 156 151 189 183
+Too unstable predictions FB error=11.355348
+52160 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 31.7413ms
+No NN matches found.
+Not tracking..
+Detection rate: 43/56
+52270 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 19.016ms
+No NN matches found.
+Not tracking..
+Detection rate: 43/57
+51080 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 18.5635ms
+No NN matches found.
+Not tracking..
+Detection rate: 43/58
+51168 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 18.9786ms
+No NN matches found.
+Not tracking..
+Detection rate: 43/59
+51388 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 18.6297ms
+No NN matches found.
+Not tracking..
+Detection rate: 43/60
+50854 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 18.4147ms
+No NN matches found.
+Not tracking..
+Detection rate: 43/61
+51154 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 18.6633ms
+Found 1 NN matches
+Not tracking..
+Found 1 clusters
+Confident detection..reinitializing tracker
+Detection rate: 44/62
+tracked points : 31
+s= 0.993472 s1= -0.107704 s2= -0.104441 
+predicted bb: 147 119 180 151
+49317 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 19.7178ms
+No NN matches found.
+Tracked
+Detection rate: 45/63
+tracked points : 31
+s= 1.006476 s1= 0.106847 s2= 0.103609 
+predicted bb: 145 129 178 161
+47075 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 18.5574ms
+No NN matches found.
+Tracked
+Detection rate: 46/64
+tracked points : 31
+s= 1.000057 s1= 0.000942 s2= 0.000914 
+predicted bb: 144 141 177 173
+44628 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 16.6935ms
+No NN matches found.
+Tracked
+Detection rate: 47/65
+tracked points : 27
+s= 1.038258 s1= 0.631252 s2= 0.612123 
+predicted bb: 141 140 175 173
+42602 Bounding boxes passed the variance filter
+0 Initial detection from Fern Classifier
+Tracked
+Detection rate: 48/66
+tracked points : 33
+s= 0.945621 s1= -0.924445 s2= -0.897255 
+predicted bb: 138 121 170 152
+42237 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 17.6071ms
+No NN matches found.
+Tracked
+Detection rate: 49/67
+tracked points : 27
+s= 1.019520 s1= 0.312315 s2= 0.302555 
+predicted bb: 134 101 167 133
+42222 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 17.0818ms
+No NN matches found.
+Tracked
+Detection rate: 50/68
+tracked points : 30
+s= 1.083919 s1= 1.384658 s2= 1.342699 
+predicted bb: 130 83 166 118
+43653 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 15.9347ms
+No NN matches found.
+Tracked
+Detection rate: 51/69
+tracked points : 33
+s= 1.009058 s1= 0.163048 s2= 0.158519 
+predicted bb: 127 75 163 110
+44518 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 16.0975ms
+No NN matches found.
+Tracked
+Detection rate: 52/70
+tracked points : 36
+s= 1.041676 s1= 0.750167 s2= 0.729329 
+predicted bb: 121 70 159 106
+46942 Bounding boxes passed the variance filter
+17 Initial detection from Fern Classifier
+Fern detector made 17 detections in 16.887ms
+No NN matches found.
+Tracked
+Detection rate: 53/71
+tracked points : 39
+s= 0.998106 s1= -0.035988 s2= -0.034094 
+predicted bb: 120 73 158 109
+47210 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 20.2661ms
+No NN matches found.
+Tracked
+Detection rate: 54/72
+tracked points : 38
+s= 0.964895 s1= -0.666995 s2= -0.631890 
+predicted bb: 120 84 157 119
+Too unstable predictions FB error=15.007880
+40899 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 17.7845ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/73
+43787 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 24.7683ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/74
+48154 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 50.7774ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/75
+49413 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 18.1714ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/76
+47999 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 18.7902ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/77
+44808 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 16.9721ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/78
+42001 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 15.5941ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/79
+43823 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 16.8648ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/80
+44257 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 17.0914ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/81
+44374 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 17.1281ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/82
+45281 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 17.7649ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/83
+45515 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 16.6393ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/84
+40291 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 15.6466ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/85
+42614 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 15.7755ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/86
+44139 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 16.1392ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/87
+43221 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 15.9316ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/88
+43156 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 15.8304ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/89
+43358 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 16.0208ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/90
+44479 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 16.5583ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/91
+45561 Bounding boxes passed the variance filter
+17 Initial detection from Fern Classifier
+Fern detector made 17 detections in 16.6657ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/92
+45948 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 16.7491ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/93
+45845 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 17.5533ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/94
+45003 Bounding boxes passed the variance filter
+1 Initial detection from Fern Classifier
+Fern detector made 1 detections in 17.2816ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/95
+44360 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 26.152ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/96
+47439 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 18.0352ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/97
+46868 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 17.4508ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/98
+47366 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 17.4546ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/99
+48239 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 18.4096ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/100
+49952 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 19.9844ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/101
+49479 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 27.1749ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/102
+50118 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 32.8857ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/103
+49760 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 18.8047ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/104
+48959 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 26.7476ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/105
+46247 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 43.9942ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/106
+44298 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 20.86ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/107
+43352 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 24.1215ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/108
+43910 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 17.7273ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/109
+45839 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 17.2012ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/110
+46308 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 17.7442ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/111
+45933 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 17.6631ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/112
+45499 Bounding boxes passed the variance filter
+19 Initial detection from Fern Classifier
+Fern detector made 19 detections in 27.1994ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/113
+45643 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 18.1001ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/114
+44512 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 16.9174ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/115
+46723 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 17.2267ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/116
+45317 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 16.6768ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/117
+46306 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 17.123ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/118
+45966 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 20.3063ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/119
+45271 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 17.3544ms
+No NN matches found.
+Not tracking..
+Detection rate: 54/120
+47356 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 29.2631ms
+Found 1 NN matches
+Not tracking..
+Found 1 clusters
+Confident detection..reinitializing tracker
+Detection rate: 55/121
+tracked points : 30
+s= 1.000150 s1= 0.002482 s2= 0.002407 
+predicted bb: 130 96 163 128
+47984 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 19.3734ms
+No NN matches found.
+Tracked
+Detection rate: 56/122
+tracked points : 30
+s= 1.010174 s1= 0.167872 s2= 0.162785 
+predicted bb: 134 104 167 136
+47766 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 17.1469ms
+No NN matches found.
+Tracked
+Detection rate: 57/123
+tracked points : 30
+s= 0.999502 s1= -0.008213 s2= -0.007964 
+predicted bb: 139 115 172 147
+47672 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 19.6365ms
+No NN matches found.
+Tracked
+Detection rate: 58/124
+tracked points : 31
+s= 1.001225 s1= 0.020207 s2= 0.019594 
+predicted bb: 147 129 180 161
+46677 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 26.5121ms
+No NN matches found.
+Tracked
+Detection rate: 59/125
+tracked points : 28
+s= 0.974374 s1= -0.422827 s2= -0.410014 
+predicted bb: 159 147 191 178
+47535 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 23.6537ms
+No NN matches found.
+Tracked
+Detection rate: 60/126
+tracked points : 30
+s= 0.980507 s1= -0.311882 s2= -0.302136 
+predicted bb: 164 137 195 167
+46327 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 18.0626ms
+No NN matches found.
+Tracked
+Detection rate: 61/127
+tracked points : 28
+s= 1.000707 s1= 0.010961 s2= 0.010607 
+predicted bb: 168 121 199 151
+46865 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 24.2062ms
+No NN matches found.
+Tracked
+Detection rate: 62/128
+tracked points : 28
+s= 0.964464 s1= -0.550809 s2= -0.533041 
+predicted bb: 171 111 201 140
+48979 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 19.6568ms
+No NN matches found.
+Tracked
+Detection rate: 63/129
+tracked points : 38
+s= 0.996817 s1= -0.047752 s2= -0.046161 
+predicted bb: 172 104 202 133
+49128 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 31.2656ms
+No NN matches found.
+Tracked
+Detection rate: 64/130
+tracked points : 38
+s= 1.008519 s1= 0.127788 s2= 0.123528 
+predicted bb: 173 95 203 124
+49751 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 18.9808ms
+No NN matches found.
+Tracked
+Detection rate: 65/131
+tracked points : 38
+s= 1.000659 s1= 0.009881 s2= 0.009552 
+predicted bb: 172 96 202 125
+49463 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 17.7698ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+0 close detections were found
+Detection rate: 66/132
+tracked points : 36
+s= 1.029562 s1= 0.443435 s2= 0.428654 
+predicted bb: 170 101 201 131
+46997 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 16.9277ms
+No NN matches found.
+Tracked
+Detection rate: 67/133
+tracked points : 27
+s= 0.999273 s1= -0.011273 s2= -0.010909 
+predicted bb: 167 111 198 141
+46908 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 16.9088ms
+No NN matches found.
+Tracked
+Detection rate: 68/134
+tracked points : 27
+s= 1.000298 s1= 0.004614 s2= 0.004465 
+predicted bb: 164 125 195 155
+46883 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 17.0201ms
+No NN matches found.
+Tracked
+Detection rate: 69/135
+tracked points : 28
+s= 1.046503 s1= 0.720796 s2= 0.697544 
+predicted bb: 161 139 193 170
+47367 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 17.9169ms
+No NN matches found.
+Tracked
+Detection rate: 70/136
+tracked points : 31
+s= 0.915400 s1= -1.353603 s2= -1.311303 
+predicted bb: 162 131 191 159
+47036 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 17.0697ms
+No NN matches found.
+Tracked
+Detection rate: 71/137
+tracked points : 53
+s= 1.006289 s1= 0.091191 s2= 0.088046 
+predicted bb: 161 117 190 145
+48154 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 17.3199ms
+No NN matches found.
+Tracked
+Detection rate: 72/138
+tracked points : 52
+s= 1.024417 s1= 0.354045 s2= 0.341837 
+predicted bb: 160 107 190 136
+47949 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 17.4122ms
+No NN matches found.
+Tracked
+Detection rate: 73/139
+tracked points : 38
+s= 1.035101 s1= 0.526514 s2= 0.508964 
+predicted bb: 159 101 190 131
+47690 Bounding boxes passed the variance filter
+17 Initial detection from Fern Classifier
+Fern detector made 17 detections in 19.6583ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+Found a better match..reinitializing tracking
+Detection rate: 74/140
+tracked points : 30
+s= 0.998447 s1= -0.025618 s2= -0.024841 
+predicted bb: 159 87 192 119
+49502 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 31.4667ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 160 85 33 32
+Tracker bb: 159 87 33 32
+Average bb: 159 87 33 32
+Weighting 1 close detection(s) with tracker..
+Detection rate: 75/141
+tracked points : 31
+s= 1.006918 s1= 0.114140 s2= 0.110682 
+predicted bb: 157 89 190 121
+49436 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 25.4168ms
+No NN matches found.
+Tracked
+Detection rate: 76/142
+tracked points : 31
+s= 1.004081 s1= 0.067337 s2= 0.065296 
+predicted bb: 154 96 187 128
+48887 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 33.1711ms
+No NN matches found.
+Tracked
+Detection rate: 77/143
+tracked points : 31
+s= 1.001754 s1= 0.028942 s2= 0.028065 
+predicted bb: 152 106 185 138
+47264 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 17.3121ms
+No NN matches found.
+Tracked
+Detection rate: 78/144
+tracked points : 31
+s= 1.005018 s1= 0.082795 s2= 0.080286 
+predicted bb: 151 117 184 149
+43684 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 16.0716ms
+No NN matches found.
+Tracked
+Detection rate: 79/145
+tracked points : 28
+s= 1.003466 s1= 0.057191 s2= 0.055458 
+predicted bb: 150 122 183 154
+43730 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 25.2955ms
+No NN matches found.
+Tracked
+Detection rate: 80/146
+tracked points : 30
+s= 1.037208 s1= 0.613929 s2= 0.595325 
+predicted bb: 148 106 182 139
+43233 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 27.3761ms
+No NN matches found.
+Tracked
+Detection rate: 81/147
+tracked points : 31
+s= 0.976988 s1= -0.391211 s2= -0.379705 
+predicted bb: 146 93 179 125
+42833 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 18.3816ms
+No NN matches found.
+Tracked
+Detection rate: 82/148
+tracked points : 31
+s= 1.026784 s1= 0.441939 s2= 0.428547 
+predicted bb: 141 85 175 118
+42725 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 16.1724ms
+No NN matches found.
+Tracked
+Detection rate: 83/149
+tracked points : 32
+s= 1.019665 s1= 0.334297 s2= 0.324465 
+predicted bb: 134 83 169 117
+42596 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 16.3133ms
+No NN matches found.
+Tracked
+Detection rate: 84/150
+tracked points : 35
+s= 0.991554 s1= -0.147810 s2= -0.143587 
+predicted bb: 122 92 157 126
+44680 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 17.3965ms
+No NN matches found.
+Tracked
+Detection rate: 85/151
+tracked points : 36
+s= 0.979116 s1= -0.365474 s2= -0.355032 
+predicted bb: 119 102 153 135
+45210 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 16.9452ms
+No NN matches found.
+Tracked
+Detection rate: 86/152
+tracked points : 33
+s= 1.002180 s1= 0.037060 s2= 0.035970 
+predicted bb: 117 115 151 148
+44951 Bounding boxes passed the variance filter
+1 Initial detection from Fern Classifier
+Fern detector made 1 detections in 23.567ms
+No NN matches found.
+Tracked
+Detection rate: 87/153
+tracked points : 33
+s= 1.000064 s1= 0.001094 s2= 0.001062 
+predicted bb: 115 131 149 164
+45155 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 16.5164ms
+No NN matches found.
+Tracked
+Detection rate: 88/154
+tracked points : 32
+s= 1.006536 s1= 0.111116 s2= 0.107848 
+predicted bb: 113 147 147 180
+47375 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 27.1168ms
+No NN matches found.
+Tracked
+Detection rate: 89/155
+tracked points : 32
+s= 0.992986 s1= -0.119243 s2= -0.115736 
+predicted bb: 114 152 148 185
+47615 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 18.6641ms
+No NN matches found.
+Tracked
+Detection rate: 90/156
+tracked points : 32
+s= 1.045530 s1= 0.774009 s2= 0.751244 
+predicted bb: 115 140 151 175
+44948 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 16.4288ms
+No NN matches found.
+Tracked
+Detection rate: 91/157
+tracked points : 32
+s= 0.997794 s1= -0.039708 s2= -0.038605 
+predicted bb: 116 130 152 165
+46300 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 17.6976ms
+No NN matches found.
+Tracked
+Detection rate: 92/158
+tracked points : 32
+s= 1.013402 s1= 0.241229 s2= 0.234528 
+predicted bb: 119 123 155 158
+47548 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 17.0932ms
+No NN matches found.
+Tracked
+Detection rate: 93/159
+tracked points : 35
+s= 1.000855 s1= 0.015385 s2= 0.014958 
+predicted bb: 124 119 160 154
+49419 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 19.2931ms
+No NN matches found.
+Tracked
+Detection rate: 94/160
+tracked points : 34
+s= 1.009243 s1= 0.166376 s2= 0.161755 
+predicted bb: 134 121 170 156
+53067 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 20.194ms
+No NN matches found.
+Tracked
+Detection rate: 95/161
+tracked points : 34
+s= 1.008296 s1= 0.149328 s2= 0.145180 
+predicted bb: 138 125 174 160
+52477 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 19.8144ms
+No NN matches found.
+Tracked
+Detection rate: 96/162
+tracked points : 35
+s= 0.995032 s1= -0.089419 s2= -0.086936 
+predicted bb: 145 134 181 169
+50457 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 20.2953ms
+No NN matches found.
+Tracked
+Detection rate: 97/163
+tracked points : 35
+s= 0.984067 s1= -0.286799 s2= -0.278832 
+predicted bb: 152 147 187 181
+50157 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 18.2775ms
+No NN matches found.
+Tracked
+Detection rate: 98/164
+tracked points : 35
+s= 0.979077 s1= -0.366149 s2= -0.355687 
+predicted bb: 157 162 191 195
+51488 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 19.3164ms
+No NN matches found.
+Tracked
+Detection rate: 99/165
+tracked points : 33
+s= 1.004858 s1= 0.082580 s2= 0.080151 
+predicted bb: 166 162 200 195
+50346 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 19.7356ms
+No NN matches found.
+Tracked
+Detection rate: 100/166
+tracked points : 32
+s= 1.020461 s1= 0.347836 s2= 0.337606 
+predicted bb: 169 145 204 179
+50287 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 18.0294ms
+No NN matches found.
+Tracked
+Detection rate: 101/167
+tracked points : 34
+s= 1.063466 s1= 1.110660 s2= 1.078927 
+predicted bb: 170 130 207 166
+48648 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 17.5572ms
+No NN matches found.
+Tracked
+Detection rate: 102/168
+tracked points : 35
+s= 1.037009 s1= 0.684667 s2= 0.666162 
+predicted bb: 175 121 213 158
+42507 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 17.6157ms
+No NN matches found.
+Tracked
+Detection rate: 103/169
+tracked points : 43
+s= 1.033383 s1= 0.634270 s2= 0.617579 
+predicted bb: 180 119 219 157
+45833 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 17.5947ms
+No NN matches found.
+Tracked
+Detection rate: 104/170
+tracked points : 43
+s= 0.987367 s1= -0.246341 s2= -0.240024 
+predicted bb: 184 117 223 155
+51629 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 21.5091ms
+No NN matches found.
+Tracked
+Detection rate: 105/171
+tracked points : 43
+s= 1.001056 s1= 0.020586 s2= 0.020059 
+predicted bb: 184 121 223 159
+51907 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 19.8353ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+0 close detections were found
+Detection rate: 106/172
+tracked points : 42
+s= 0.996165 s1= -0.074790 s2= -0.072872 
+predicted bb: 183 129 222 167
+49777 Bounding boxes passed the variance filter
+17 Initial detection from Fern Classifier
+Fern detector made 17 detections in 30.4629ms
+No NN matches found.
+Tracked
+Detection rate: 107/173
+tracked points : 43
+s= 1.016554 s1= 0.322796 s2= 0.314519 
+predicted bb: 177 140 217 179
+47897 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 17.2335ms
+No NN matches found.
+Tracked
+Detection rate: 108/174
+tracked points : 33
+s= 0.996323 s1= -0.073534 s2= -0.071696 
+predicted bb: 170 152 210 191
+44759 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 26.1373ms
+No NN matches found.
+Tracked
+Detection rate: 109/175
+tracked points : 28
+s= 0.987329 s1= -0.253414 s2= -0.247079 
+predicted bb: 156 145 195 184
+41678 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 51.4586ms
+No NN matches found.
+Tracked
+Detection rate: 110/176
+tracked points : 42
+s= 1.000577 s1= 0.011253 s2= 0.011253 
+predicted bb: 149 124 188 163
+41528 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 19.7966ms
+No NN matches found.
+Tracked
+Detection rate: 111/177
+tracked points : 42
+s= 1.042933 s1= 0.837191 s2= 0.837191 
+predicted bb: 141 106 182 147
+41427 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 24.2467ms
+No NN matches found.
+Tracked
+Detection rate: 112/178
+tracked points : 29
+s= 0.982048 s1= -0.368021 s2= -0.368021 
+predicted bb: 137 96 177 136
+41406 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 15.1876ms
+No NN matches found.
+Tracked
+Detection rate: 113/179
+tracked points : 25
+s= 0.976332 s1= -0.473368 s2= -0.473368 
+predicted bb: 134 91 173 130
+41293 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 23.417ms
+No NN matches found.
+Tracked
+Detection rate: 114/180
+tracked points : 42
+s= 0.976989 s1= -0.448722 s2= -0.448722 
+predicted bb: 130 86 168 124
+43532 Bounding boxes passed the variance filter
+16 Initial detection from Fern Classifier
+Fern detector made 16 detections in 15.831ms
+Found 2 NN matches
+Tracked
+Cluster indexes: 0 0 
+Found 1 clusters
+Found a better match..reinitializing tracking
+Detection rate: 115/181
+tracked points : 31
+s= 0.994932 s1= -0.083615 s2= -0.081081 
+predicted bb: 136 81 169 113
+44090 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 16.8544ms
+No NN matches found.
+Tracked
+Detection rate: 116/182
+tracked points : 30
+s= 0.974416 s1= -0.422143 s2= -0.409350 
+predicted bb: 137 91 169 122
+44207 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 16.5669ms
+No NN matches found.
+Tracked
+Detection rate: 117/183
+tracked points : 29
+s= 0.964476 s1= -0.568388 s2= -0.550626 
+predicted bb: 139 105 170 135
+42218 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 15.5267ms
+No NN matches found.
+Tracked
+Detection rate: 118/184
+tracked points : 23
+s= 1.011619 s1= 0.180092 s2= 0.174283 
+predicted bb: 140 118 171 148
+41980 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 15.435ms
+No NN matches found.
+Tracked
+Detection rate: 119/185
+tracked points : 27
+s= 0.976030 s1= -0.371543 s2= -0.359557 
+predicted bb: 142 111 172 140
+41657 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 15.3514ms
+No NN matches found.
+Tracked
+Detection rate: 120/186
+tracked points : 36
+s= 1.042564 s1= 0.638461 s2= 0.617178 
+predicted bb: 142 100 173 130
+42559 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 15.6604ms
+No NN matches found.
+Tracked
+Detection rate: 121/187
+tracked points : 26
+s= 1.000295 s1= 0.004579 s2= 0.004431 
+predicted bb: 143 94 174 124
+45904 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 28.2718ms
+No NN matches found.
+Tracked
+Detection rate: 122/188
+tracked points : 28
+s= 0.995101 s1= -0.075927 s2= -0.073478 
+predicted bb: 145 91 176 121
+46655 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 27.8942ms
+No NN matches found.
+Tracked
+Detection rate: 123/189
+tracked points : 28
+s= 1.000466 s1= 0.007227 s2= 0.006993 
+predicted bb: 149 91 180 121
+45066 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 18.2147ms
+No NN matches found.
+Tracked
+Detection rate: 124/190
+tracked points : 27
+s= 0.981339 s1= -0.289246 s2= -0.279915 
+predicted bb: 156 103 186 132
+47170 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 26.9168ms
+No NN matches found.
+Tracked
+Detection rate: 125/191
+tracked points : 35
+s= 0.960315 s1= -0.595269 s2= -0.575427 
+predicted bb: 157 114 186 142
+48573 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 35.5437ms
+No NN matches found.
+Tracked
+Detection rate: 126/192
+tracked points : 52
+s= 0.987662 s1= -0.178901 s2= -0.172732 
+predicted bb: 159 132 188 160
+44611 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 56.0072ms
+No NN matches found.
+Tracked
+Detection rate: 127/193
+tracked points : 50
+s= 1.000890 s1= 0.012902 s2= 0.012457 
+predicted bb: 159 149 188 177
+44568 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 54.8969ms
+No NN matches found.
+Tracked
+Detection rate: 128/194
+tracked points : 50
+s= 1.002776 s1= 0.040251 s2= 0.038863 
+predicted bb: 159 165 188 193
+45506 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 56.229ms
+No NN matches found.
+Tracked
+Detection rate: 129/195
+tracked points : 52
+s= 1.017337 s1= 0.251383 s2= 0.242714 
+predicted bb: 159 154 189 182
+47691 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 21.6613ms
+No NN matches found.
+Tracked
+Detection rate: 130/196
+tracked points : 33
+s= 1.055434 s1= 0.831517 s2= 0.776083 
+predicted bb: 158 140 190 170
+45624 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 16.6726ms
+No NN matches found.
+Tracked
+Detection rate: 131/197
+tracked points : 27
+s= 0.992590 s1= -0.118567 s2= -0.111157 
+predicted bb: 157 133 189 163
+44537 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 25.2659ms
+No NN matches found.
+Tracked
+Detection rate: 132/198
+tracked points : 28
+s= 0.982899 s1= -0.273623 s2= -0.256522 
+predicted bb: 157 133 188 162
+43989 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 16.0038ms
+No NN matches found.
+Tracked
+Detection rate: 133/199
+tracked points : 42
+s= 1.000072 s1= 0.001110 s2= 0.001039 
+predicted bb: 157 136 188 165
+44083 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 19.2173ms
+No NN matches found.
+Tracked
+Detection rate: 134/200
+tracked points : 40
+s= 0.989560 s1= -0.161824 s2= -0.151383 
+predicted bb: 157 146 188 175
+43421 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 17.5639ms
+No NN matches found.
+Tracked
+Detection rate: 135/201
+tracked points : 41
+s= 0.977376 s1= -0.350673 s2= -0.328049 
+predicted bb: 157 157 187 185
+43054 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 24.8868ms
+No NN matches found.
+Tracked
+Detection rate: 136/202
+tracked points : 35
+s= 1.007879 s1= 0.118180 s2= 0.110301 
+predicted bb: 158 171 188 199
+42913 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 21.8283ms
+No NN matches found.
+Tracked
+Detection rate: 137/203
+tracked points : 34
+s= 1.000034 s1= 0.000510 s2= 0.000476 
+predicted bb: 159 189 189 217
+43496 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 22.4727ms
+No NN matches found.
+Tracked
+Detection rate: 138/204
+tracked points : 34
+s= 0.970999 s1= -0.435019 s2= -0.406017 
+predicted bb: 161 206 190 233
+42256 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 15.5124ms
+No NN matches found.
+Tracked
+Detection rate: 139/205
+tracked points : 49
+s= 0.978972 s1= -0.304901 s2= -0.283873 
+predicted bb: 162 199 190 225
+49914 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 17.9789ms
+No NN matches found.
+Tracked
+Detection rate: 140/206
+tracked points : 44
+s= 1.005771 s1= 0.080788 s2= 0.075017 
+predicted bb: 162 183 190 209
+49623 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 18.8218ms
+No NN matches found.
+Tracked
+Detection rate: 141/207
+tracked points : 44
+s= 1.006112 s1= 0.085566 s2= 0.079454 
+predicted bb: 162 170 190 196
+46152 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 30.0356ms
+No NN matches found.
+Tracked
+Detection rate: 142/208
+tracked points : 42
+s= 0.989099 s1= -0.152620 s2= -0.141719 
+predicted bb: 162 159 190 185
+41759 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 15.8978ms
+No NN matches found.
+Tracked
+Detection rate: 143/209
+tracked points : 46
+s= 1.003940 s1= 0.055153 s2= 0.051214 
+predicted bb: 162 149 190 175
+40544 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 23.4869ms
+No NN matches found.
+Tracked
+Detection rate: 144/210
+tracked points : 44
+s= 0.965681 s1= -0.480465 s2= -0.446146 
+predicted bb: 161 138 188 163
+42630 Bounding boxes passed the variance filter
+17 Initial detection from Fern Classifier
+Fern detector made 17 detections in 44.6536ms
+Found 2 NN matches
+Tracked
+Cluster indexes: 0 0 
+Found 1 clusters
+0 confident cluster was found
+0 close detections were found
+Detection rate: 145/211
+tracked points : 46
+s= 1.001323 s1= 0.017860 s2= 0.016537 
+predicted bb: 160 139 187 164
+43447 Bounding boxes passed the variance filter
+16 Initial detection from Fern Classifier
+Fern detector made 16 detections in 53.8809ms
+Found 2 NN matches
+Tracked
+Cluster indexes: 0 0 
+Found 1 clusters
+0 confident cluster was found
+0 close detections were found
+Detection rate: 146/212
+tracked points : 46
+s= 1.017033 s1= 0.229939 s2= 0.212906 
+predicted bb: 160 143 187 168
+44461 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 22.1012ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+0 close detections were found
+Detection rate: 147/213
+tracked points : 46
+s= 0.980576 s1= -0.262227 s2= -0.242803 
+predicted bb: 161 153 187 178
+46029 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 16.739ms
+No NN matches found.
+Tracked
+Detection rate: 148/214
+tracked points : 43
+s= 0.987679 s1= -0.160167 s2= -0.154006 
+predicted bb: 162 164 188 189
+47053 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 27.6337ms
+No NN matches found.
+Tracked
+Detection rate: 149/215
+tracked points : 40
+s= 0.962958 s1= -0.481541 s2= -0.463020 
+predicted bb: 163 148 188 172
+35249 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 15.4076ms
+No NN matches found.
+Tracked
+Detection rate: 150/216
+tracked points : 38
+s= 1.045003 s1= 0.562535 s2= 0.540034 
+predicted bb: 162 121 188 146
+38639 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 14.2137ms
+No NN matches found.
+Tracked
+Detection rate: 151/217
+tracked points : 42
+s= 1.025012 s1= 0.325156 s2= 0.312650 
+predicted bb: 162 105 189 131
+40225 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 23.6632ms
+No NN matches found.
+Tracked
+Detection rate: 152/218
+tracked points : 45
+s= 0.979503 s1= -0.276711 s2= -0.266462 
+predicted bb: 163 94 189 119
+40980 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 15.2123ms
+No NN matches found.
+Tracked
+Detection rate: 153/219
+tracked points : 40
+s= 1.063204 s1= 0.821657 s2= 0.790055 
+predicted bb: 162 88 190 115
+46553 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 26.555ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+0 close detections were found
+Detection rate: 154/220
+tracked points : 49
+s= 0.979527 s1= -0.286618 s2= -0.276382 
+predicted bb: 160 90 187 116
+47586 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 47.2585ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+0 close detections were found
+Detection rate: 155/221
+tracked points : 45
+s= 0.981430 s1= -0.250697 s2= -0.241412 
+predicted bb: 159 97 185 123
+47606 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 50.5608ms
+No NN matches found.
+Tracked
+Detection rate: 156/222
+tracked points : 41
+s= 1.005541 s1= 0.072034 s2= 0.072034 
+predicted bb: 158 109 184 135
+47202 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 47.9413ms
+No NN matches found.
+Tracked
+Detection rate: 157/223
+tracked points : 43
+s= 0.972721 s1= -0.354623 s2= -0.354623 
+predicted bb: 159 127 184 152
+45150 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 23.2137ms
+No NN matches found.
+Tracked
+Detection rate: 158/224
+tracked points : 42
+s= 1.259278 s1= 3.240980 s2= 3.240980 
+predicted bb: 155 135 186 166
+46131 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 25.8314ms
+No NN matches found.
+Tracked
+Detection rate: 159/225
+tracked points : 26
+s= 1.020991 s1= 0.325354 s2= 0.325354 
+predicted bb: 148 122 180 154
+Too unstable predictions FB error=16.752302
+46786 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 22.8522ms
+No NN matches found.
+Not tracking..
+Detection rate: 159/226
+48478 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 18.088ms
+No NN matches found.
+Not tracking..
+Detection rate: 159/227
+47672 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 17.4363ms
+No NN matches found.
+Not tracking..
+Detection rate: 159/228
+48290 Bounding boxes passed the variance filter
+16 Initial detection from Fern Classifier
+Fern detector made 16 detections in 17.5216ms
+Found 1 NN matches
+Not tracking..
+Found 1 clusters
+Confident detection..reinitializing tracker
+Detection rate: 160/229
+tracked points : 31
+s= 0.999937 s1= -0.001042 s2= -0.001010 
+predicted bb: 139 93 172 125
+49555 Bounding boxes passed the variance filter
+20 Initial detection from Fern Classifier
+Fern detector made 20 detections in 17.8863ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 139 94 33 32
+Tracker bb: 139 93 33 32
+Average bb: 139 93 33 32
+Weighting 1 close detection(s) with tracker..
+Detection rate: 161/230
+tracked points : 31
+s= 1.001166 s1= 0.019231 s2= 0.018648 
+predicted bb: 136 99 169 131
+49902 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 19.7776ms
+No NN matches found.
+Tracked
+Detection rate: 162/231
+tracked points : 28
+s= 1.001121 s1= 0.018503 s2= 0.017942 
+predicted bb: 135 109 168 141
+47902 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 18.4025ms
+No NN matches found.
+Tracked
+Detection rate: 163/232
+tracked points : 29
+s= 0.989385 s1= -0.175141 s2= -0.169834 
+predicted bb: 135 123 168 155
+47387 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 18.6726ms
+No NN matches found.
+Tracked
+Detection rate: 164/233
+tracked points : 28
+s= 1.027661 s1= 0.456410 s2= 0.442579 
+predicted bb: 135 134 169 167
+47052 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 18.1646ms
+No NN matches found.
+Tracked
+Detection rate: 165/234
+tracked points : 33
+s= 0.997015 s1= -0.050745 s2= -0.049253 
+predicted bb: 138 134 172 167
+46425 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 18.1739ms
+No NN matches found.
+Tracked
+Detection rate: 166/235
+tracked points : 18
+s= 0.981112 s1= -0.321093 s2= -0.311649 
+predicted bb: 144 107 177 139
+Too unstable predictions FB error=27.103127
+46423 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 18.0402ms
+No NN matches found.
+Not tracking..
+Detection rate: 166/236
+47121 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 17.5706ms
+No NN matches found.
+Not tracking..
+Detection rate: 166/237
+46761 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 18.7602ms
+No NN matches found.
+Not tracking..
+Detection rate: 166/238
+46703 Bounding boxes passed the variance filter
+17 Initial detection from Fern Classifier
+Fern detector made 17 detections in 28.5634ms
+No NN matches found.
+Not tracking..
+Detection rate: 166/239
+47606 Bounding boxes passed the variance filter
+16 Initial detection from Fern Classifier
+Fern detector made 16 detections in 60.3519ms
+Found 2 NN matches
+Not tracking..
+Cluster indexes: 0 0 
+Found 1 clusters
+Confident detection..reinitializing tracker
+Detection rate: 167/240
+tracked points : 37
+s= 1.001202 s1= 0.018028 s2= 0.017427 
+predicted bb: 162 103 192 132
+46474 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 41.6769ms
+No NN matches found.
+Tracked
+Detection rate: 168/241
+tracked points : 37
+s= 1.012709 s1= 0.190632 s2= 0.184277 
+predicted bb: 167 112 197 141
+43802 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 27.0192ms
+No NN matches found.
+Tracked
+Detection rate: 169/242
+tracked points : 38
+s= 1.011654 s1= 0.174814 s2= 0.168987 
+predicted bb: 174 124 204 153
+43680 Bounding boxes passed the variance filter
+1 Initial detection from Fern Classifier
+Fern detector made 1 detections in 16.5784ms
+No NN matches found.
+Tracked
+Detection rate: 170/243
+tracked points : 38
+s= 1.004387 s1= 0.065804 s2= 0.063610 
+predicted bb: 178 129 208 158
+46366 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 16.7992ms
+No NN matches found.
+Tracked
+Detection rate: 171/244
+tracked points : 34
+s= 0.971965 s1= -0.420532 s2= -0.406514 
+predicted bb: 179 122 208 150
+45722 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 17.3659ms
+No NN matches found.
+Tracked
+Detection rate: 172/245
+tracked points : 39
+s= 1.148649 s1= 2.155403 s2= 2.081079 
+predicted bb: 179 88 212 120
+Too unstable predictions FB error=10.483408
+45396 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 18.9629ms
+No NN matches found.
+Not tracking..
+Detection rate: 172/246
+45238 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 31.2695ms
+No NN matches found.
+Not tracking..
+Detection rate: 172/247
+45773 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 17.2467ms
+No NN matches found.
+Not tracking..
+Detection rate: 172/248
+46693 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 17.6066ms
+Found 1 NN matches
+Not tracking..
+Found 1 clusters
+Confident detection..reinitializing tracker
+Detection rate: 173/249
+tracked points : 31
+s= 0.999668 s1= -0.005474 s2= -0.005308 
+predicted bb: 186 83 219 115
+47509 Bounding boxes passed the variance filter
+21 Initial detection from Fern Classifier
+Fern detector made 21 detections in 17.5927ms
+No NN matches found.
+Tracked
+Detection rate: 174/250
+tracked points : 27
+s= 1.005828 s1= 0.096166 s2= 0.093252 
+predicted bb: 191 95 224 127
+45072 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 16.8085ms
+No NN matches found.
+Tracked
+Detection rate: 175/251
+tracked points : 30
+s= 0.996149 s1= -0.063544 s2= -0.061619 
+predicted bb: 195 106 228 138
+43652 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 16.3218ms
+No NN matches found.
+Tracked
+Detection rate: 176/252
+tracked points : 29
+s= 1.022493 s1= 0.371135 s2= 0.359888 
+predicted bb: 197 118 231 151
+43591 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 26.2251ms
+No NN matches found.
+Tracked
+Detection rate: 177/253
+tracked points : 31
+s= 1.004296 s1= 0.073029 s2= 0.070881 
+predicted bb: 199 123 233 156
+44468 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 49.7272ms
+No NN matches found.
+Tracked
+Detection rate: 178/254
+tracked points : 32
+s= 1.011522 s1= 0.195875 s2= 0.190114 
+predicted bb: 200 117 234 150
+44237 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 56.6779ms
+No NN matches found.
+Tracked
+Detection rate: 179/255
+tracked points : 22
+s= 1.067986 s1= 1.155754 s2= 1.121761 
+predicted bb: 198 88 234 123
+44497 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 23.1925ms
+No NN matches found.
+Tracked
+Detection rate: 180/256
+tracked points : 36
+s= 1.001289 s1= 0.023206 s2= 0.022562 
+predicted bb: 197 83 233 118
+44832 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 31.8638ms
+No NN matches found.
+Tracked
+Detection rate: 181/257
+tracked points : 36
+s= 1.003754 s1= 0.067577 s2= 0.065700 
+predicted bb: 193 82 229 117
+44056 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 16.9864ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 196 82 33 32
+Tracker bb: 193 82 36 35
+Average bb: 193 82 36 35
+Weighting 1 close detection(s) with tracker..
+Detection rate: 182/258
+tracked points : 36
+s= 1.005867 s1= 0.105602 s2= 0.102668 
+predicted bb: 186 82 222 117
+44713 Bounding boxes passed the variance filter
+11 Initial detection from Fern Classifier
+Fern detector made 11 detections in 17.3685ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 190 82 33 32
+Tracker bb: 186 82 36 35
+Average bb: 186 82 36 35
+Weighting 1 close detection(s) with tracker..
+Detection rate: 183/259
+tracked points : 35
+s= 0.997296 s1= -0.048680 s2= -0.047328 
+predicted bb: 181 85 217 120
+46094 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 17.0814ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 184 85 33 32
+Tracker bb: 181 85 36 35
+Average bb: 181 85 36 35
+Weighting 1 close detection(s) with tracker..
+Detection rate: 184/260
+tracked points : 35
+s= 0.994438 s1= -0.100113 s2= -0.097332 
+predicted bb: 175 101 211 136
+45506 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 17.0676ms
+No NN matches found.
+Tracked
+Detection rate: 185/261
+tracked points : 35
+s= 0.996623 s1= -0.060790 s2= -0.059101 
+predicted bb: 172 114 208 149
+44127 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 16.4557ms
+No NN matches found.
+Tracked
+Detection rate: 186/262
+tracked points : 36
+s= 1.013227 s1= 0.238088 s2= 0.231474 
+predicted bb: 170 125 206 160
+43731 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 16.4012ms
+No NN matches found.
+Tracked
+Detection rate: 187/263
+tracked points : 33
+s= 1.003863 s1= 0.069529 s2= 0.067598 
+predicted bb: 166 124 202 159
+43154 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 16.3364ms
+No NN matches found.
+Tracked
+Detection rate: 188/264
+tracked points : 35
+s= 0.953473 s1= -0.837481 s2= -0.814218 
+predicted bb: 162 112 196 145
+42940 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 15.6388ms
+No NN matches found.
+Tracked
+Detection rate: 189/265
+tracked points : 27
+s= 1.128004 s1= 2.176063 s2= 2.112061 
+predicted bb: 157 87 195 124
+45128 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 16.4055ms
+No NN matches found.
+Tracked
+Detection rate: 190/266
+tracked points : 43
+s= 1.022065 s1= 0.419234 s2= 0.408201 
+predicted bb: 156 83 195 121
+45589 Bounding boxes passed the variance filter
+18 Initial detection from Fern Classifier
+Fern detector made 18 detections in 17.5454ms
+Found 2 NN matches
+Tracked
+Cluster indexes: 0 0 
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 160 85 33 32
+Tracker bb: 156 83 39 38
+Average bb: 156 83 38 37
+Weighting 1 close detection(s) with tracker..
+Detection rate: 191/267
+tracked points : 43
+s= 0.993311 s1= -0.127084 s2= -0.123740 
+predicted bb: 154 82 192 119
+45574 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 16.4816ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 157 82 33 32
+Tracker bb: 154 82 38 37
+Average bb: 154 82 38 37
+Weighting 1 close detection(s) with tracker..
+Detection rate: 192/268
+tracked points : 43
+s= 1.007392 s1= 0.140453 s2= 0.136757 
+predicted bb: 152 83 190 120
+47617 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 18.3751ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 157 85 33 32
+Tracker bb: 152 83 38 37
+Average bb: 152 83 38 37
+Weighting 1 close detection(s) with tracker..
+Detection rate: 193/269
+tracked points : 42
+s= 0.975406 s1= -0.467293 s2= -0.454996 
+predicted bb: 152 88 189 124
+47927 Bounding boxes passed the variance filter
+18 Initial detection from Fern Classifier
+Fern detector made 18 detections in 17.4315ms
+No NN matches found.
+Tracked
+Detection rate: 194/270
+tracked points : 35
+s= 0.957572 s1= -0.784911 s2= -0.763697 
+predicted bb: 150 111 185 145
+Too unstable predictions FB error=14.248883
+48577 Bounding boxes passed the variance filter
+0 Initial detection from Fern Classifier
+Not tracking..
+Detection rate: 194/271
+48477 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 18.4496ms
+No NN matches found.
+Not tracking..
+Detection rate: 194/272
+48573 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 17.6354ms
+No NN matches found.
+Not tracking..
+Detection rate: 194/273
+45342 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 24.1927ms
+No NN matches found.
+Not tracking..
+Detection rate: 194/274
+40443 Bounding boxes passed the variance filter
+1 Initial detection from Fern Classifier
+Fern detector made 1 detections in 14.9307ms
+No NN matches found.
+Not tracking..
+Detection rate: 194/275
+47650 Bounding boxes passed the variance filter
+15 Initial detection from Fern Classifier
+Fern detector made 15 detections in 18.2164ms
+No NN matches found.
+Not tracking..
+Detection rate: 194/276
+49694 Bounding boxes passed the variance filter
+17 Initial detection from Fern Classifier
+Fern detector made 17 detections in 19.3681ms
+Found 1 NN matches
+Not tracking..
+Found 1 clusters
+Confident detection..reinitializing tracker
+Detection rate: 195/277
+tracked points : 30
+s= 1.000020 s1= 0.000327 s2= 0.000317 
+predicted bb: 114 99 147 131
+49474 Bounding boxes passed the variance filter
+18 Initial detection from Fern Classifier
+Fern detector made 18 detections in 17.907ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+0 close detections were found
+Detection rate: 196/278
+tracked points : 31
+s= 0.999908 s1= -0.001516 s2= -0.001470 
+predicted bb: 112 101 145 133
+50508 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 20.6362ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 112 100 33 32
+Tracker bb: 112 101 33 32
+Average bb: 112 101 33 32
+Weighting 1 close detection(s) with tracker..
+Detection rate: 197/279
+tracked points : 31
+s= 0.990498 s1= -0.156787 s2= -0.152036 
+predicted bb: 111 106 144 138
+50581 Bounding boxes passed the variance filter
+20 Initial detection from Fern Classifier
+Fern detector made 20 detections in 18.2174ms
+Found 2 NN matches
+Tracked
+Cluster indexes: 0 0 
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 112 106 33 32
+Tracker bb: 111 106 33 32
+Average bb: 111 106 33 32
+Weighting 1 close detection(s) with tracker..
+Detection rate: 198/280
+tracked points : 27
+s= 0.988777 s1= -0.185187 s2= -0.179575 
+predicted bb: 118 125 151 157
+49363 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 17.7936ms
+No NN matches found.
+Tracked
+Detection rate: 199/281
+tracked points : 30
+s= 0.985462 s1= -0.239877 s2= -0.232608 
+predicted bb: 122 138 155 170
+48517 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 18.5756ms
+No NN matches found.
+Tracked
+Detection rate: 200/282
+tracked points : 27
+s= 1.031828 s1= 0.525157 s2= 0.509243 
+predicted bb: 125 140 159 173
+46281 Bounding boxes passed the variance filter
+9 Initial detection from Fern Classifier
+Fern detector made 9 detections in 25.6259ms
+No NN matches found.
+Tracked
+Detection rate: 201/283
+tracked points : 31
+s= 1.051939 s1= 0.882959 s2= 0.856990 
+predicted bb: 130 133 166 168
+42207 Bounding boxes passed the variance filter
+0 Initial detection from Fern Classifier
+Tracked
+Detection rate: 202/284
+tracked points : 36
+s= 0.998025 s1= -0.035551 s2= -0.034564 
+predicted bb: 137 115 173 150
+41957 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 15.6967ms
+No NN matches found.
+Tracked
+Detection rate: 203/285
+tracked points : 35
+s= 1.002380 s1= 0.042834 s2= 0.041644 
+predicted bb: 143 89 179 124
+41656 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 15.6ms
+No NN matches found.
+Tracked
+Detection rate: 204/286
+tracked points : 36
+s= 0.986527 s1= -0.242517 s2= -0.235780 
+predicted bb: 148 82 184 117
+40614 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 16.6521ms
+No NN matches found.
+Tracked
+Detection rate: 205/287
+tracked points : 35
+s= 0.974901 s1= -0.451774 s2= -0.439225 
+predicted bb: 153 78 188 112
+42241 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 15.5416ms
+No NN matches found.
+Tracked
+Detection rate: 206/288
+tracked points : 36
+s= 1.001328 s1= 0.023244 s2= 0.022580 
+predicted bb: 157 78 192 112
+42789 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 18.1374ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+0 confident cluster was found
+weighted detection: 157 76 33 32
+Tracker bb: 157 78 35 34
+Average bb: 157 78 35 34
+Weighting 1 close detection(s) with tracker..
+Detection rate: 207/289
+tracked points : 36
+s= 1.000532 s1= 0.009315 s2= 0.009049 
+predicted bb: 161 82 196 116
+43077 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 15.9837ms
+No NN matches found.
+Tracked
+Detection rate: 208/290
+tracked points : 35
+s= 0.945577 s1= -0.952396 s2= -0.925184 
+predicted bb: 166 105 199 137
+44503 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 16.2813ms
+No NN matches found.
+Tracked
+Detection rate: 209/291
+tracked points : 29
+s= 1.017030 s1= 0.280989 s2= 0.272474 
+predicted bb: 166 118 200 151
+43379 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 15.8006ms
+No NN matches found.
+Tracked
+Detection rate: 210/292
+tracked points : 31
+s= 1.011216 s1= 0.190679 s2= 0.185071 
+predicted bb: 165 127 199 160
+43870 Bounding boxes passed the variance filter
+14 Initial detection from Fern Classifier
+Fern detector made 14 detections in 15.9903ms
+No NN matches found.
+Tracked
+Detection rate: 211/293
+tracked points : 30
+s= 0.992258 s1= -0.131617 s2= -0.127746 
+predicted bb: 165 125 199 158
+42497 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 16.5134ms
+No NN matches found.
+Tracked
+Detection rate: 212/294
+tracked points : 31
+s= 1.003648 s1= 0.062019 s2= 0.060195 
+predicted bb: 164 110 198 143
+42691 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 15.7845ms
+No NN matches found.
+Tracked
+Detection rate: 213/295
+tracked points : 26
+s= 1.140807 s1= 2.393713 s2= 2.323310 
+predicted bb: 161 86 200 124
+43575 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 15.8834ms
+No NN matches found.
+Tracked
+Detection rate: 214/296
+tracked points : 43
+s= 1.002773 s1= 0.054065 s2= 0.052679 
+predicted bb: 160 82 199 120
+45102 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 20.2488ms
+No NN matches found.
+Tracked
+Detection rate: 215/297
+tracked points : 43
+s= 1.000038 s1= 0.000735 s2= 0.000716 
+predicted bb: 159 82 198 120
+45936 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 24.0499ms
+Found 1 NN matches
+Tracked
+Found 1 clusters
+Found a better match..reinitializing tracking
+Detection rate: 216/298
+tracked points : 48
+s= 0.999332 s1= -0.009021 s2= -0.009021 
+predicted bb: 162 82 189 109
+45706 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 17.0153ms
+No NN matches found.
+Tracked
+Detection rate: 217/299
+tracked points : 48
+s= 0.948955 s1= -0.689105 s2= -0.689105 
+predicted bb: 160 88 186 114
+44929 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 23.5476ms
+No NN matches found.
+Tracked
+Detection rate: 218/300
+tracked points : 43
+s= 0.995379 s1= -0.060069 s2= -0.060069 
+predicted bb: 152 111 178 137
+44083 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 16.1138ms
+No NN matches found.
+Tracked
+Detection rate: 219/301
+tracked points : 39
+s= 1.033770 s1= 0.439006 s2= 0.439006 
+predicted bb: 150 123 177 150
+43748 Bounding boxes passed the variance filter
+4 Initial detection from Fern Classifier
+Fern detector made 4 detections in 17.0182ms
+No NN matches found.
+Tracked
+Detection rate: 220/302
+tracked points : 40
+s= 1.020458 s1= 0.276188 s2= 0.276188 
+predicted bb: 148 129 176 157
+44511 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 16.4488ms
+No NN matches found.
+Tracked
+Detection rate: 221/303
+tracked points : 48
+s= 1.003114 s1= 0.043594 s2= 0.043594 
+predicted bb: 146 124 174 152
+43615 Bounding boxes passed the variance filter
+2 Initial detection from Fern Classifier
+Fern detector made 2 detections in 17.6777ms
+No NN matches found.
+Tracked
+Detection rate: 222/304
+tracked points : 49
+s= 1.005116 s1= 0.071617 s2= 0.071617 
+predicted bb: 145 112 173 140
+44163 Bounding boxes passed the variance filter
+3 Initial detection from Fern Classifier
+Fern detector made 3 detections in 17.0704ms
+No NN matches found.
+Tracked
+Detection rate: 223/305
+tracked points : 46
+s= 1.080199 s1= 1.122779 s2= 1.122779 
+predicted bb: 144 101 174 131
+45617 Bounding boxes passed the variance filter
+10 Initial detection from Fern Classifier
+Fern detector made 10 detections in 24.8482ms
+No NN matches found.
+Tracked
+Detection rate: 224/306
+tracked points : 25
+s= 0.999590 s1= -0.006143 s2= -0.006143 
+predicted bb: 146 104 176 134
+44893 Bounding boxes passed the variance filter
+13 Initial detection from Fern Classifier
+Fern detector made 13 detections in 36.2104ms
+No NN matches found.
+Tracked
+Detection rate: 225/307
+tracked points : 25
+s= 0.997439 s1= -0.038419 s2= -0.038419 
+predicted bb: 149 111 179 141
+45332 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 16.3903ms
+No NN matches found.
+Tracked
+Detection rate: 226/308
+tracked points : 25
+s= 0.983811 s1= -0.242838 s2= -0.242838 
+predicted bb: 150 119 180 149
+48546 Bounding boxes passed the variance filter
+7 Initial detection from Fern Classifier
+Fern detector made 7 detections in 17.9639ms
+No NN matches found.
+Tracked
+Detection rate: 227/309
+tracked points : 25
+s= 1.030264 s1= 0.453967 s2= 0.453967 
+predicted bb: 150 126 181 157
+48632 Bounding boxes passed the variance filter
+5 Initial detection from Fern Classifier
+Fern detector made 5 detections in 17.4986ms
+No NN matches found.
+Tracked
+Detection rate: 228/310
+tracked points : 31
+s= 0.968595 s1= -0.486777 s2= -0.486777 
+predicted bb: 150 152 180 182
+Too unstable predictions FB error=13.098350
+51611 Bounding boxes passed the variance filter
+8 Initial detection from Fern Classifier
+Fern detector made 8 detections in 27.6817ms
+No NN matches found.
+Not tracking..
+Detection rate: 228/311
+52702 Bounding boxes passed the variance filter
+6 Initial detection from Fern Classifier
+Fern detector made 6 detections in 20.3386ms
+No NN matches found.
+Not tracking..
+Detection rate: 228/312
+52356 Bounding boxes passed the variance filter
+12 Initial detection from Fern Classifier
+Fern detector made 12 detections in 18.8164ms
+No NN matches found.
+Not tracking..
+Detection rate: 228/313

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/nagaraju/Chetan/Color_TLD/lib/libferNN.a  CMakeFiles/ferNN.dir/FerNNClassifier.o
+/usr/bin/ranlib /home/nagaraju/Chetan/Color_TLD/lib/libferNN.a
